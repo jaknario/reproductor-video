@@ -23,7 +23,7 @@ body {
 }
 
 .player-title {
-  color: #fff;
+  color: #222;
   position: absolute;
   inset-block-start: 20px;
   inset-inline-start: 20px;
